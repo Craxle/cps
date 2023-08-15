@@ -1,0 +1,19 @@
+
+.click{
+    width: 100%;
+    height: 300px;
+    background-color: #cac6c6;
+}
+button{
+    width: 100%;
+    height: 100%;
+}
+#timer{
+    width:200px; 
+    height:200px; 
+    border: 1px solid #C03; 
+    line-height:200px; 
+    text-align:center;
+    margin: auto;
+    background-color: #f1d2d2;
+}
